@@ -15,7 +15,6 @@ Issue tracker for Battle Royale on ArmA3
 - If you are planning on posting a new bug report, please make sure you read the others first to avoid posting the same as someone else.
 
 ### 3.   Required Information
-- Player UID (Steam64 ID)
 - Server the issue took place on
 - Time you were on the server
 - Version of the mod
